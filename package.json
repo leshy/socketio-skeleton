@@ -1,0 +1,16 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "async": "^0.9.0",
+    "colors": "^0.6.2",
+    "express": "~3.0.3",
+    "decorators2": "git://github.com/leshy/nodejs-decorators2.git",
+    "ejs": "^1.0.0",
+    "ejs-locals": "^1.0.2",
+    "helpers": "git://github.com/leshy/nodejs-helpers.git",
+    "socket.io": "^1.0.6",
+    "underscore": "^1.6.0"
+  }
+}
